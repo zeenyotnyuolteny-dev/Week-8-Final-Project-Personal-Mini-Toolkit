@@ -1,0 +1,19 @@
+PERSONAL MINI-TOOLKIT — WEEK 8
+
+Tools:
+1. Simple Calculator: Adds, subtracts, multiplies, or divides two numbers.
+2. To-Do List: Allows the user to add, view, and remove tasks.
+3. Even or Odd Checker: Checks whether a number is even or odd.
+
+Menu text:
+Welcome to My Personal Mini-Toolkit!
+1. Simple Calculator
+2. To-Do List
+3. Even or Odd Checker
+4. Quit
+
+Concepts used:
+- Calculator: variables, input, conditionals, and f-strings.
+- To-Do List: lists, loops, conditionals, and f-strings.
+- Even or Odd Checker: input, the modulo operator (%), and conditionals.
+- Main menu: while loop, if/elif/else, and input.
